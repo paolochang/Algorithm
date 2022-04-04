@@ -18,23 +18,15 @@ public class _001_TwoSumV2 {
     System.out.println("RESULT [0, 1] == " + Arrays.toString(twoSum(nums5, 6)));
   }
 
-  public static int[] twoSum(int[] nums, int target) {
-    HashMap<Integer, Integer> hashMap = new HashMap<Integer, Integer>();
-    int[] result = new int[2]; 
-    int need = 0;
+  public static int[] twoSum(int[] nums, int target) throws IllegalAccessException {
+    HashMap<Integer, Integer> hashMap = new HashMap<>();
     for (int i = 0; i < nums.length; i++) {
-      need = target - nums[i];
-      if (hashMap.containsValue(need)) {
-        result[1] = i;
-        break;
+      int complement = target - nums[i];
+      if (hashMap.containsKey(complement)) {
+        return new int[] {hashMap.get(complement), i};
       }
-      hashMap.put(i, nums[i]);
+      hashMap.put(nums[i], i);
     }
-
-    for (Integer i : hashMap.keySet()) {
-      if (nums[i] == need) result[0] = i;
-    }
-
-    return result;
+    throw new IllegalArgumentException("Not found");
   }
 }
