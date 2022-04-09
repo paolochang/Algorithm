@@ -9,7 +9,12 @@ public class _0125_ValidPalindrome {
     System.out.println(isPalindromeV2("0P"));
   }
 
-  // O(n): Brute force
+  /**
+   * Brute Force
+   * Analysis
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(n)
+   */
   public static boolean isPalindromeV1(String s) {
     String str = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
     String reversed = "";
@@ -21,13 +26,17 @@ public class _0125_ValidPalindrome {
     return false;
   }
 
-  // O(n) Two Pointers Technique
+  /**
+   * Two Pointer's
+   * Analysis
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(n)
+   */
   public static boolean isPalindromeV2(String s) {
     String str = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-    for (int i = 0; i < str.length(); i++) {
+    for (int i = 0; i < str.length()/2; i++) {
       if (str.charAt(i) == str.charAt(str.length()-1-i)) {
-        if (i == str.length() - 1 - i) return true;
-        continue;
+        if (i >= str.length() - 1 - i) return true;
       }
       else return false;
     }
