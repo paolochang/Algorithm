@@ -1,7 +1,5 @@
 package LinkedList.Java;
 
-import org.w3c.dom.Node;
-
 public class _0021_MergeTwoSortedLists {
   public static class ListNode {
     int val;
