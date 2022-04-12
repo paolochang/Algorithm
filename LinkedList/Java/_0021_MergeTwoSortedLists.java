@@ -28,8 +28,8 @@ public class _0021_MergeTwoSortedLists {
     ListNode list3a = new ListNode();
     ListNode list3b = new ListNode(0);
     
+    mergeTwoLists(list1a_1, list1b_1);
     mergeTwoLists(list2a, list2b);
-    mergeTwoLists(list3a, list3b);
     mergeTwoLists(list3a, list3b);
   }
 
@@ -37,7 +37,7 @@ public class _0021_MergeTwoSortedLists {
    * Linked List
    * Analysis
    * Time Complexity: BigO(n)
-   * Space Complexity: BigO(n)
+   * Space Complexity: BigO(1)
    */
   public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
     ListNode head = new ListNode();

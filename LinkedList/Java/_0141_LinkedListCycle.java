@@ -50,10 +50,10 @@ public class _0141_LinkedListCycle {
   }
 
   /**
-   * Floyd's tortoise and hare
+   * Floyd's tortoise and hare (Two Pointers)
    * Analysis
-   * Time Complexity: 
-   * Space Complexity:
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(1)
    */
   public static boolean hasCycleV2(ListNode head) {
     ListNode fast = head;
