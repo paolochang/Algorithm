@@ -5,6 +5,7 @@
 | #    | Title                                                                                     | Solution                                                      | Difficulty | Tags                                        |
 | ---- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | ------------------------------------------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                                         | [Java](./Array/Java/_0001_TwoSum.java)                        | Easy       | `Array`, `Hash Table`                       |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                     | [Java](./String/Java/_0020_ValidParentheses.java)             | Easy       | `String`, `Stack`                           |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)           | [Java](./LinkedList/Java/_0021_MergeTwoSortedLists.java)      | Easy       | `Linked List`, `Recursion`                  |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                       | [Java](./String/Java/_0125_ValidPalindrome.java)              | Easy       | `String`, `Two Pointers`                    |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                     | [Java](./LinkedList/Java/_0141_LinkedListCycle.java)          | Easy       | `Linked List`, `Hash Table`, `Two Pointers` |
