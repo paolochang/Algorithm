@@ -9,6 +9,7 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)           | [Java](./LinkedList/Java/_0021_MergeTwoSortedLists.java)      | Easy       | `Linked List`, `Recursion`                  |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                       | [Java](./String/Java/_0125_ValidPalindrome.java)              | Easy       | `String`, `Two Pointers`                    |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                     | [Java](./LinkedList/Java/_0141_LinkedListCycle.java)          | Easy       | `Linked List`, `Hash Table`, `Two Pointers` |
+| 0155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                     | [Java](./Stack/Java/_0155_MinStack.java)                      | Easy       | `Stack`, `Design`                           |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](./LinkedList/Java/_0203_RemoveLinkedListElements.java) | Easy       | `Linked List`, `Recursion`                  |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                   | [Java](./Array/Java/_0217_ContainsDuplicate.java)             | Easy       | `Array`, `Hash Table`, `Soring`             |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                             | [Java](./String/Java/_0242_ValidAnagram.java)                 | Easy       | `String`, `Hash Table`, `Sorting`           |
