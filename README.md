@@ -16,6 +16,7 @@
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                               | [Java](./String/Java/_0242_ValidAnagram.java)                 | Easy       | `String`, `Hash Table`, `Sorting`           |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                             | [Java](./String/Java/_0344_ReverseString.java)                | Easy       | `String`, `Two Pointers`, `Recursion`       |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                       | [Java](./Math/Java/_0412_FizzBuzz.java)                       | Easy       | `Math`, `String`                            |
+| 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)             | [Java](./Queue/Java/_0933_NumberOfRecentCalls.java)           | Easy       | `Design`, `Queue`, `Data Stream`            |
 
 ## Troubleshoot
 
