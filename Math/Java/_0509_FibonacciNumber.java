@@ -2,7 +2,14 @@ package Math.Java;
 
 public class _0509_FibonacciNumber {
   public static int fib(int n) {
-      return 1;
+    if (n < 2) return n;
+    int a = 0, b = 1, temp;
+    for (int i = 1; i < n; i++) {
+      temp = a;
+      a = b;
+      b += temp;
+    }
+    return b;
   }
 
   public static void main(String[] args) throws Exception {
