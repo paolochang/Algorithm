@@ -34,5 +34,4 @@ public class _0145_BinaryTreePostorderTraversal {
     postorder(root.right, list);
     list.add(root.val);
   }
-
 }
