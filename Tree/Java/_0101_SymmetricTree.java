@@ -2,6 +2,7 @@ package Tree.Java;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 public class _0101_SymmetricTree {
 
@@ -45,9 +46,43 @@ public class _0101_SymmetricTree {
     mirroredPeorder(root.left, list);
   }
 
-  public boolean isSymmetric(TreeNode root) {
+  /**
+   * Recursion
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(n)
+   */
+  public boolean isSymmetricV1(TreeNode root) {
     preorder(root.left, left);
     mirroredPeorder(root.right, right);
     return left.equals(right);
+  }
+
+  /**
+   * DFS Iteration
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(n)
+   */
+  public boolean isSymmetricV2(TreeNode root) {
+
+    Stack<TreeNode> nodes = new Stack<>();
+    TreeNode leftNode = root.left;
+    TreeNode rightNode = root.right;
+    
+    while(!nodes.isEmpty() || leftNode != null || rightNode != null) {
+      if(leftNode != null && rightNode != null) {
+        if(leftNode.val != rightNode.val)
+          return false;
+        nodes.push(leftNode.right);
+        nodes.push(rightNode.left);
+        leftNode = leftNode.left;
+        rightNode = rightNode.right;
+      } else {
+        if(leftNode == null ^ rightNode == null)
+          return false;
+        leftNode = nodes.pop();
+        rightNode = nodes.pop();
+      }
+    }
+    return true;
   }
 }
