@@ -23,7 +23,7 @@ public class _0700_SearchinaBinarySearchTree {
    * Time Complexity: BigO(n)
    * Space Complexity: BigO(n)
    */
-  public TreeNode searchBST(TreeNode root, int val) {
+  public TreeNode searchBSTV1(TreeNode root, int val) {
     List<Integer> preorder = new ArrayList<>();
     Stack<TreeNode> stack = new Stack<>();
     
@@ -40,4 +40,15 @@ public class _0700_SearchinaBinarySearchTree {
     return null;
   }
 
+  /**
+   * Recursion
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(n)
+   */
+  public TreeNode searchBSTV2(TreeNode root, int val) {
+    if (root == null) return null;
+    if (root.val > val) return searchBSTV2(root.left, val);
+    else if (root.val < val) return searchBSTV2(root.right, val);
+    return root;
+  }
 }
