@@ -19,6 +19,7 @@
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                       | [Java](./Math/Java/_0412_FizzBuzz.java)                       | Easy       | `Math`, `String`                                          |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                         | [Java](./Math/Java/_0509_FibonacciNumber.java)                | Easy       | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)             | [Java](./Queue/Java/_0933_NumberOfRecentCalls.java)           | Easy       | `Design`, `Queue`, `Data Stream`                          |
+| 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                   | [Java](./Array/Java/_0997_FindtheTownJudge.java)              | Easy       | `Array`, `Hash Table`, `Graph`                            |
 
 ### Tree
 
