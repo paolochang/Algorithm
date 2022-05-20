@@ -10,6 +10,7 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Java](./Array/Java/_0217_ContainsDuplicate.java) | Easy       | `Array`, `Hash Table`, `Soring`                                 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)       | [Java](./Array/Java/_0463_IslandPerimeter.java)   | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)                   | [Java](./Array/Java/_0733_FloodFill.java)         | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
+| 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)         | [Java](./Array/Java/_0860_LemonadeChange.java)    | Easy       | `Array`, `Greedy`                                               |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./Array/Java/_0997_FindtheTownJudge.java)  | Easy       | `Array`, `Hash Table`, `Graph`                                  |
 
 ### Linked List
