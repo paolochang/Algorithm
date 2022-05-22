@@ -46,7 +46,7 @@ public class _0860_LemonadeChange {
   /**
    * Iteration with using integer variables
    * Time Complexity: BigO(n)
-   * Space Complexity: BigO(n)
+   * Space Complexity: BigO(1)
    */
   public boolean lemonadeChangeV2(int[] bills) {
     int b5 = 0;
@@ -54,7 +54,7 @@ public class _0860_LemonadeChange {
     
     for (int bill : bills) {
       if (bill == 5) b5++;
-      else if (bill == 20){
+      else if (bill == 20) {
          if (b5 >= 1 && b10 >= 1) {
            b10--;
            b5--;
