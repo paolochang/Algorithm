@@ -19,7 +19,7 @@ public class _0605_CanPlaceFlowers {
    * [0]
    * 1
    */
-  public boolean canPlaceFlowers(int[] flowerbed, int n) {
+  public boolean canPlaceFlowersV1(int[] flowerbed, int n) {
       int num = 0;
       for (int i = 0; i < flowerbed.length; i++) {
         if (flowerbed[i] == 0) {
@@ -35,5 +35,27 @@ public class _0605_CanPlaceFlowers {
         }
       }
       return num >= n;
+  }
+
+  /**
+   * Iteration
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(1)
+   */
+  public boolean canPlaceFlowersV2(int[] flowerbed, int n) {
+    for (int i = 0; n > 0 && i < flowerbed.length; ++i) {
+      if (flowerbed[i] == 1) {
+        i++;
+      }
+      else {
+        int left = i - 1 >= 0 ? flowerbed[i - 1] : 0;
+        int right = i + 1 < flowerbed.length ? flowerbed[i + 1] : 0;
+        if (left == 0 && right == 0) {
+          n--;
+          i++;
+        }
+      }
+    }
+    return n <= 0;
   }
 }

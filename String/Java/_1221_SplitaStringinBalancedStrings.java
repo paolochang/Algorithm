@@ -26,7 +26,7 @@ public class _1221_SplitaStringinBalancedStrings {
   /**
    * Iteration
    * Time Complexity: BigO(n)
-   * Space Complexity: BigO(n)
+   * Space Complexity: BigO(1)
    */
   public int balancedStringSplitV2(String s) {
     int count = 0;
