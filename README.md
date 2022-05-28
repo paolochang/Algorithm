@@ -7,6 +7,7 @@
 | #    | Title                                                                     | Solution                                          | Difficulty | Tags                                                            |
 | ---- | ------------------------------------------------------------------------- | ------------------------------------------------- | ---------- | --------------------------------------------------------------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                         | [Java](./Array/Java/_0001_TwoSum.java)            | Easy       | `Array`, `Hash Table`                                           |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)       | [Java](./Array/Java/_0053_MaximumSubarray.java)   | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming`                |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Java](./Array/Java/_0217_ContainsDuplicate.java) | Easy       | `Array`, `Hash Table`, `Soring`                                 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)       | [Java](./Array/Java/_0463_IslandPerimeter.java)   | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)     | [Java](./Array/Java/_0605_CanPlaceFlowers.java)   | Easy       | `Array`, `Greedy`                                               |
