@@ -20,6 +20,7 @@
 | #    | Title                                                               | Solution                                                     | Difficulty | Tags                                             |
 | ---- | ------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------ |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java) | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)   | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java) | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
 
 ### Linked List
 
