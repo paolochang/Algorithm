@@ -1,4 +1,4 @@
-package Array.Java;
+package DynamicProgramming.Java;
 
 public class _0053_MaximumSubarray {
 

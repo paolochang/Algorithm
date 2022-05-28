@@ -15,6 +15,12 @@
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)         | [Java](./Array/Java/_0860_LemonadeChange.java)    | Easy       | `Array`, `Greedy`                                               |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./Array/Java/_0997_FindtheTownJudge.java)  | Easy       | `Array`, `Hash Table`, `Graph`                                  |
 
+### Dynamic Programming
+
+| #    | Title                                                               | Solution                                                     | Difficulty | Tags                                             |
+| ---- | ------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------ |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java) | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
+
 ### Linked List
 
 | #    | Title                                                                                     | Solution                                                      | Difficulty | Tags                                        |
