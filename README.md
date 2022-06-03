@@ -17,10 +17,12 @@
 
 ### Dynamic Programming
 
-| #    | Title                                                               | Solution                                                     | Difficulty | Tags                                             |
-| ---- | ------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------ |
-| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java) | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
-| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)   | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java) | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
+| #    | Title                                                                               | Solution                                                           | Difficulty | Tags                                             |
+| ---- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- | ------------------------------------------------ |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                 | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java)       | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
+| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                         | [Java](./DynamicProgramming/Java/_0062_UniquePaths.java)           | Medium     | `Math`, `Dynamic Programming`, `Combinatorics`   |
+| 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                   | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java)       | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
+| 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](./DynamicProgramming/Java/_0746_MinCostClimbingStairs.java) | Easy       | `Array`, `Dynamic Programming`                   |
 
 ### Linked List
 

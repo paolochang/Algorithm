@@ -2,6 +2,9 @@ package DynamicProgramming.Java;
 
 public class _0053_MaximumSubarray {
 
+  /**
+   * Kadane's Algorithm
+   */
   public int maxSubArray(int[] nums) {
     int currMax = nums[0];
     int max = nums[0];
