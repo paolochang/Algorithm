@@ -57,6 +57,7 @@
 
 | #    | Title                                                                                                   | Solution                                                       | Difficulty | Tags                                  |
 | ---- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------- | ------------------------------------- |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                     | [Java](./String/Java/_0013_RomantoInteger.java)                | Easy       | `Hash Table`, `Math`, `String`        |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                   | [Java](./String/Java/_0020_ValidParentheses.java)              | Easy       | `String`, `Stack`                     |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                     | [Java](./String/Java/_0125_ValidPalindrome.java)               | Easy       | `String`, `Two Pointers`              |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                           | [Java](./String/Java/_0242_ValidAnagram.java)                  | Easy       | `String`, `Hash Table`, `Sorting`     |
