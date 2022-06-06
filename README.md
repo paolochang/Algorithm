@@ -10,6 +10,7 @@
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)       | [Java](./Array/Java/_0053_MaximumSubarray.java)   | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming`                |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Java](./Array/Java/_0217_ContainsDuplicate.java) | Easy       | `Array`, `Hash Table`, `Soring`                                 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)       | [Java](./Array/Java/_0463_IslandPerimeter.java)   | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
+| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)               | [Java](./Array/Java/_0500_KeyboardRow.java)       | Easy       | `Array`, `Hash Table`, `String`                                 |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)     | [Java](./Array/Java/_0605_CanPlaceFlowers.java)   | Easy       | `Array`, `Greedy`                                               |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)                   | [Java](./Array/Java/_0733_FloodFill.java)         | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)         | [Java](./Array/Java/_0860_LemonadeChange.java)    | Easy       | `Array`, `Greedy`                                               |
