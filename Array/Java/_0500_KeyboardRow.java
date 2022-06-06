@@ -33,7 +33,7 @@ public class _0500_KeyboardRow {
     return ans.toArray(new String[0]);
   }
                                         
-  private boolean valid(HashSet dict, String word) {
+  private boolean valid(HashSet<String> dict, String word) {
     boolean valid = true;
     for(int i = 0; i < word.length(); i++) {
       String ch = word.substring(i, i + 1);
