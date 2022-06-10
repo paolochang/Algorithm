@@ -8,6 +8,7 @@
 | ---- | ------------------------------------------------------------------------- | ------------------------------------------------- | ---------- | --------------------------------------------------------------- |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                         | [Java](./Array/Java/_0001_TwoSum.java)            | Easy       | `Array`, `Hash Table`                                           |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)       | [Java](./Array/Java/_0053_MaximumSubarray.java)   | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming`                |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)               | [Java](./Array/Java/_0189_RotateArray.java)       | Medium     | `Array`, `Math`, `Two Pointer`                                  |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Java](./Array/Java/_0217_ContainsDuplicate.java) | Easy       | `Array`, `Hash Table`, `Soring`                                 |
 | 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)       | [Java](./Array/Java/_0463_IslandPerimeter.java)   | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
 | 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)               | [Java](./Array/Java/_0500_KeyboardRow.java)       | Easy       | `Array`, `Hash Table`, `String`                                 |
