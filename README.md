@@ -65,6 +65,7 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                     | [Java](./String/Java/_0125_ValidPalindrome.java)               | Easy       | `String`, `Two Pointers`              |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                           | [Java](./String/Java/_0242_ValidAnagram.java)                  | Easy       | `String`, `Hash Table`, `Sorting`     |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                         | [Java](./String/Java/_0344_ReverseString.java)                 | Easy       | `String`, `Two Pointers`, `Recursion` |
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/)                                       | [Java](./String/Java/_1154_DayoftheYear.java)                  | Easy       | `Math`, `String`                      |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](./String/Java/_1221_SplitaStringinBalancedStrings.java) | Easy       | `String`, `Greedy`, `Counting`        |
 
 ### Tree

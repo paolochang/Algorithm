@@ -21,7 +21,7 @@ public class _0104_MaximumDepthofBinaryTree {
    * Time Complexity: BigO(n)
    * Space Complexity: BigO(n)
    */
-  public int maxDepth(TreeNode root) {
+  public int maxDepthV1(TreeNode root) {
     if (root == null) return 0;
     
     int max = 0;
@@ -45,4 +45,19 @@ public class _0104_MaximumDepthofBinaryTree {
     }
     return max;
   }
+
+  /**
+   * Recursion
+   * Time Complexity: BigO(n)
+   * Space Complexity: BigO(n)
+   */
+  public int maxDepthV2(TreeNode root) {
+    // Base Condition
+    if(root == null) return 0;
+    // Hypothesis
+    int left = maxDepthV2(root.left);
+    int right = maxDepthV2(root.right);
+    // Induction
+    return Math.max(left, right) + 1;
+}
 }
