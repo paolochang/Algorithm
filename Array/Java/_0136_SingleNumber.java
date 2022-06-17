@@ -32,6 +32,25 @@ public class _0136_SingleNumber {
    *  1       1         0
    * Time Complexity: BigO(n)
    * Space Complexity: BigO(1)
+   * Example:
+   * [4,1,2,1,2]
+   * 
+   *  000
+   *  100
+   *  ---
+   *  100
+   *  001
+   *  ---
+   *  101
+   *  010
+   *  ---
+   *  111
+   *  001
+   *  ---
+   *  110
+   *  010
+   *  ---
+   *  100
    */
   public int singleNumberV2(int[] nums) {
     int result = 0;
