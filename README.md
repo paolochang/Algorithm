@@ -29,11 +29,12 @@
 
 ### Linked List
 
-| #    | Title                                                                                     | Solution                                                      | Difficulty | Tags                                        |
-| ---- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | ------------------------------------------- |
-| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)           | [Java](./LinkedList/Java/_0021_MergeTwoSortedLists.java)      | Easy       | `Linked List`, `Recursion`                  |
-| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                     | [Java](./LinkedList/Java/_0141_LinkedListCycle.java)          | Easy       | `Linked List`, `Hash Table`, `Two Pointers` |
-| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](./LinkedList/Java/_0203_RemoveLinkedListElements.java) | Easy       | `Linked List`, `Recursion`                  |
+| #    | Title                                                                                       | Solution                                                      | Difficulty | Tags                                        |
+| ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | ------------------------------------------- |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)             | [Java](./LinkedList/Java/_0021_MergeTwoSortedLists.java)      | Easy       | `Linked List`, `Recursion`                  |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                       | [Java](./LinkedList/Java/_0141_LinkedListCycle.java)          | Easy       | `Linked List`, `Hash Table`, `Two Pointers` |
+| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)   | [Java](./LinkedList/Java/_0203_RemoveLinkedListElements.java) | Easy       | `Linked List`, `Recursion`                  |
+| 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./LinkedList/Java/_0237_DeleteNodeinaLinkedList.java)  | Easy       | `Linked List`                               |
 
 ### Math
 
