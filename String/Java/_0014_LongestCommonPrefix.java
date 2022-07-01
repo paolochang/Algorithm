@@ -2,6 +2,11 @@ package String.Java;
 
 public class _0014_LongestCommonPrefix {
 
+  /**
+   * Iteration
+   * Time Complexity: BigO(NM^2)
+   * Space Complexity: BigO(M)
+   */
   public String longestCommonPrefix(String[] strs) {
     String prefix = strs[0];
     for(int i = 1;i < strs.length; i++){
