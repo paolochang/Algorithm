@@ -4,21 +4,22 @@
 
 ### Array
 
-| #    | Title                                                                     | Solution                                          | Difficulty | Tags                                                            |
-| ---- | ------------------------------------------------------------------------- | ------------------------------------------------- | ---------- | --------------------------------------------------------------- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                         | [Java](./Array/Java/_0001_TwoSum.java)            | Easy       | `Array`, `Hash Table`                                           |
-| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)       | [Java](./Array/Java/_0053_MaximumSubarray.java)   | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming`                |
-| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                     | [Java](./Array/Java/_0055_JumpGame.java)          | Medium     | `Array`, `Dynamic Programming`, `Greedy`                        |
-| 0066 | [Plus One](https://leetcode.com/problems/plus-one/)                       | [Java](./Array/Java/_0066_PlusOne.java)           | Easy       | `Array`, `Math`                                                 |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/)             | [Java](./Array/Java/_0136_SingleNumber.java)      | Easy       | `Array`, `Bit Manipulation`                                     |
-| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)               | [Java](./Array/Java/_0189_RotateArray.java)       | Medium     | `Array`, `Math`, `Two Pointer`                                  |
-| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Java](./Array/Java/_0217_ContainsDuplicate.java) | Easy       | `Array`, `Hash Table`, `Soring`                                 |
-| 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)       | [Java](./Array/Java/_0463_IslandPerimeter.java)   | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
-| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)               | [Java](./Array/Java/_0500_KeyboardRow.java)       | Easy       | `Array`, `Hash Table`, `String`                                 |
-| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)     | [Java](./Array/Java/_0605_CanPlaceFlowers.java)   | Easy       | `Array`, `Greedy`                                               |
-| 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)                   | [Java](./Array/Java/_0733_FloodFill.java)         | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` |
-| 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)         | [Java](./Array/Java/_0860_LemonadeChange.java)    | Easy       | `Array`, `Greedy`                                               |
-| 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./Array/Java/_0997_FindtheTownJudge.java)  | Easy       | `Array`, `Hash Table`, `Graph`                                  |
+| #    | Title                                                                     | Solution                                          | Difficulty | Tags                                                               |
+| ---- | ------------------------------------------------------------------------- | ------------------------------------------------- | ---------- | ------------------------------------------------------------------ |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)                         | [Java](./Array/Java/_0001_TwoSum.java)            | Easy       | `Array`, `Hash Table`                                              |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)       | [Java](./Array/Java/_0053_MaximumSubarray.java)   | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming`                   |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/)                     | [Java](./Array/Java/_0055_JumpGame.java)          | Medium     | `Array`, `Dynamic Programming`, `Greedy`                           |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/)                       | [Java](./Array/Java/_0066_PlusOne.java)           | Easy       | `Array`, `Math`                                                    |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/)             | [Java](./Array/Java/_0136_SingleNumber.java)      | Easy       | `Array`, `Bit Manipulation`                                        |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/)       | [Java](./Array/Java/_0169_MajorityElement.java)   | Easy       | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)               | [Java](./Array/Java/_0189_RotateArray.java)       | Medium     | `Array`, `Math`, `Two Pointer`                                     |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Java](./Array/Java/_0217_ContainsDuplicate.java) | Easy       | `Array`, `Hash Table`, `Soring`                                    |
+| 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)       | [Java](./Array/Java/_0463_IslandPerimeter.java)   | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix`    |
+| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)               | [Java](./Array/Java/_0500_KeyboardRow.java)       | Easy       | `Array`, `Hash Table`, `String`                                    |
+| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)     | [Java](./Array/Java/_0605_CanPlaceFlowers.java)   | Easy       | `Array`, `Greedy`                                                  |
+| 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)                   | [Java](./Array/Java/_0733_FloodFill.java)         | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix`    |
+| 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)         | [Java](./Array/Java/_0860_LemonadeChange.java)    | Easy       | `Array`, `Greedy`                                                  |
+| 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Java](./Array/Java/_0997_FindtheTownJudge.java)  | Easy       | `Array`, `Hash Table`, `Graph`                                     |
 
 ### Dynamic Programming
 
