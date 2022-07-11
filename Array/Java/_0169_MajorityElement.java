@@ -10,7 +10,7 @@ public class _0169_MajorityElement {
    * Time Complexity: BigO(N)
    * Space Complexity: BigO(N)
    */
-  public int majorityElement(int[] nums) {
+  public int majorityElementV1(int[] nums) {
     Hashtable<Integer, Integer> ht = new Hashtable<>();
     
     for (int num : nums) {
@@ -33,4 +33,22 @@ public class _0169_MajorityElement {
 
    return maxKey;
   }
+
+  /**
+   * Boyer-Moor Voting Algorithm
+   * Time Complexity: BigO(N)
+   * Space Complexity: BigO(1)
+   */
+  public int majorityElementV2(int[] nums) {
+    int count = 0, ret = 0;
+    for (int num: nums) {
+      if (count == 0)
+        ret = num;
+      if (num != ret)
+        count--;
+      else
+        count++;
+    }
+    return ret;
+}
 }
