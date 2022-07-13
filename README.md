@@ -65,19 +65,20 @@
 
 ### String
 
-| #    | Title                                                                                                         | Solution                                                         | Difficulty | Tags                                  |
-| ---- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- | ------------------------------------- |
-| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                           | [Java](./String/Java/_0013_RomantoInteger.java)                  | Easy       | `Hash Table`, `Math`, `String`        |
-| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                 | [Java](./String/Java/_0014_LongestCommonPrefix.java)             | Easy       | `String`                              |
-| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                         | [Java](./String/Java/_0020_ValidParentheses.java)                | Easy       | `String`, `Stack`                     |
-| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                           | [Java](./String/Java/_0125_ValidPalindrome.java)                 | Easy       | `String`, `Two Pointers`              |
-| 0179 | [Largest Number](https://leetcode.com/problems/largest-number/)                                               | [Java](./String/Java/_0179_LargestNumber.java)                   | Medium     | `String`, `Greedy`, `Sorting`         |
-| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                 | [Java](./String/Java/_0242_ValidAnagram.java)                    | Easy       | `String`, `Hash Table`, `Sorting`     |
-| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                               | [Java](./String/Java/_0344_ReverseString.java)                   | Easy       | `String`, `Two Pointers`, `Recursion` |
-| 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)                     | [Java](./String/Java/_0551_StudentAttendanceRecordI.java)        | Easy       | `String`                              |
-| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/)                                             | [Java](./String/Java/_1154_DayoftheYear.java)                    | Easy       | `Math`, `String`                      |
-| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)       | [Java](./String/Java/_1221_SplitaStringinBalancedStrings.java)   | Easy       | `String`, `Greedy`, `Counting`        |
-| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Java](./String/Java/_2264_Largest3SameDigitNumberinString.java) | Easy       | `String`                              |
+| #    | Title                                                                                                         | Solution                                                         | Difficulty | Tags                                        |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- | ------------------------------------------- |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                           | [Java](./String/Java/_0013_RomantoInteger.java)                  | Easy       | `Hash Table`, `Math`, `String`              |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                 | [Java](./String/Java/_0014_LongestCommonPrefix.java)             | Easy       | `String`                                    |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                         | [Java](./String/Java/_0020_ValidParentheses.java)                | Easy       | `String`, `Stack`                           |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                         | [Java](./String/Java/_0028_ImplementstrStr.java)                 | Easy       | `Two Pointers`, `String`, `String Matching` |
+| 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                           | [Java](./String/Java/_0125_ValidPalindrome.java)                 | Easy       | `String`, `Two Pointers`                    |
+| 0179 | [Largest Number](https://leetcode.com/problems/largest-number/)                                               | [Java](./String/Java/_0179_LargestNumber.java)                   | Medium     | `String`, `Greedy`, `Sorting`               |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                 | [Java](./String/Java/_0242_ValidAnagram.java)                    | Easy       | `String`, `Hash Table`, `Sorting`           |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                               | [Java](./String/Java/_0344_ReverseString.java)                   | Easy       | `String`, `Two Pointers`, `Recursion`       |
+| 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)                     | [Java](./String/Java/_0551_StudentAttendanceRecordI.java)        | Easy       | `String`                                    |
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/)                                             | [Java](./String/Java/_1154_DayoftheYear.java)                    | Easy       | `Math`, `String`                            |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)       | [Java](./String/Java/_1221_SplitaStringinBalancedStrings.java)   | Easy       | `String`, `Greedy`, `Counting`              |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Java](./String/Java/_2264_Largest3SameDigitNumberinString.java) | Easy       | `String`                                    |
 
 ### Tree
 
