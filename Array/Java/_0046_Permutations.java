@@ -1,7 +1,9 @@
 package Array.Java;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class _0046_Permutations {
 
@@ -12,20 +14,26 @@ public class _0046_Permutations {
 
   public static List<List<Integer>> permute(int[] nums) {
     List<List<Integer>> results = new ArrayList<>();
-    backtrack(results, new ArrayList<>(), nums);
+    backtrack(results, new HashSet<>(), nums);
     return results;
  }
  
- private static void backtrack(List<List<Integer>> results, List<Integer> temp, int [] nums){
-    if(temp.size() == nums.length) {
-      results.add(new ArrayList<>(temp));
+ /**
+  * Time Complexity: BigO(N)
+  * Space Complexity: BigO(1) 
+  * Using ArrayList tempList.contains(num) takes BigO(N)
+  * Using HashSet   tempSet.contains(num)  takes BigO(1)
+  */
+ private static void backtrack(List<List<Integer>> results, Set<Integer> tempSet, int [] nums){
+    if(tempSet.size() == nums.length) {
+      results.add(new ArrayList<>(tempSet)); // shallow copy, deep copy
     } else{
        for(int num : nums){ 
-          if(temp.contains(num)) continue; // element already exists, skip
-          temp.add(num);
-          backtrack(results, temp, nums);
-          temp.remove(temp.size() - 1);
+          if(tempSet.contains(num)) continue; // element already exists, skip
+          tempSet.add(num);
+          backtrack(results, tempSet, nums);
+          tempSet.remove(tempSet.size() - 1);
        }
     }
- } 
+  }
 }
