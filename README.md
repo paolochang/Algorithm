@@ -50,13 +50,14 @@
 
 ### Math
 
-| #    | Title                                                               | Solution                                       | Difficulty | Tags                                                      |
-| ---- | ------------------------------------------------------------------- | ---------------------------------------------- | ---------- | --------------------------------------------------------- |
-| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                  | [Java](./Math/Java/_0050_PowXN.java)           | Medium     | `Math`, `Recursion`                                       |
-| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)         | [Java](./Math/Java/_0202_HappyNumber.java)     | Easy       | `Hash Table`, `Math`, `Two Pointer`                       |
-| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)         | [Java](./Math/Java/_0231_PowerofTwo.java)      | Easy       | `Math`, `Bit Manipulation`, `Recursion`                   |
-| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)               | [Java](./Math/Java/_0412_FizzBuzz.java)        | Easy       | `Math`, `String`                                          |
-| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Java](./Math/Java/_0509_FibonacciNumber.java) | Easy       | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
+| #    | Title                                                                                 | Solution                                              | Difficulty | Tags                                                      |
+| ---- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | --------------------------------------------------------- |
+| 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                    | [Java](./Math/Java/_0050_PowXN.java)                  | Medium     | `Math`, `Recursion`                                       |
+| 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./Math/Java/_0171_ExcelSheetColumnNumber.java) | Easy       | `Math`, `String`                                          |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                           | [Java](./Math/Java/_0202_HappyNumber.java)            | Easy       | `Hash Table`, `Math`, `Two Pointer`                       |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                           | [Java](./Math/Java/_0231_PowerofTwo.java)             | Easy       | `Math`, `Bit Manipulation`, `Recursion`                   |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                 | [Java](./Math/Java/_0412_FizzBuzz.java)               | Easy       | `Math`, `String`                                          |
+| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                   | [Java](./Math/Java/_0509_FibonacciNumber.java)        | Easy       | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
 
 [To Questions](#question-top)
 
