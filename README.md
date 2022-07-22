@@ -23,6 +23,7 @@
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)                                                   | [Java](./Array/Java/_0733_FloodFill.java)                       | Easy       | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix`    |
 | 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                                         | [Java](./Array/Java/_0860_LemonadeChange.java)                  | Easy       | `Array`, `Greedy`                                                  |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                 | [Java](./Array/Java/_0997_FindtheTownJudge.java)                | Easy       | `Array`, `Hash Table`, `Graph`                                     |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)         | [Java](./Array/Java/_1588_SumofAllOddLengthSubarrays.java)      | Easy       | `Array`, `Math`, `Prefix Sum`                                      |
 
 [To Questions](#question-top)
 
