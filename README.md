@@ -2,21 +2,14 @@
 
 ### <a name="table-of-contents"></a>Table of Contents
 
-#### [Array](#array)
-
-#### [Dynamic Programming](#dynamic-programming)
-
-#### [Linked List](#linked-list)
-
-#### [Math](#math)
-
-#### [Queue](#queue)
-
-#### [Stack](#stack)
-
-#### [String](#string)
-
-#### [Tree](#tree)
+- [Array](#array)
+- [Dynamic Programming](#dynamic-programming)
+- [Linked List](#linked-list)
+- [Math](#math)
+- [Queue](#queue)
+- [Stack](#stack)
+- [String](#string)
+- [Tree](#tree)
 
 ### Questions
 
