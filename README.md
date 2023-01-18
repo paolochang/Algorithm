@@ -1,8 +1,26 @@
-# Algorithms - LEETCODE
+## Algorithms - LEETCODE
 
-## <a name="question-top"></a>Questions
+### <a name="table-of-contents"></a>Table of Contents
 
-### Array
+#### [Array](#array)
+
+#### [Dynamic Programming](#dynamic-programming)
+
+#### [Linked List](#linked-list)
+
+#### [Math](#math)
+
+#### [Queue](#queue)
+
+#### [Stack](#stack)
+
+#### [String](#string)
+
+#### [Tree](#tree)
+
+### Questions
+
+#### <a name="array"></a>Array
 
 | #    | Title                                                                                                         | Solution                                                                                                                  | Difficulty | Tags                                                               |
 | ---- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ |
@@ -28,9 +46,9 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)             | [Java](./Array/Java/_1588_SumofAllOddLengthSubarrays.java)                                                                | Easy       | `Array`, `Math`, `Prefix Sum`                                      |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/) | [Java](./Array/Java/_2053_KthDistinctStringInAnArray.java), [Python3](./Array/Python/_2053_KthDistinctStringInAnArray.py) | Easy       | `Array`, `Hash Table`, `String`, `Counting`                        |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-### Dynamic Programming
+#### <a name="dynamic-programming"></a>Dynamic Programming
 
 | #    | Title                                                                               | Solution                                                           | Difficulty | Tags                                             |
 | ---- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- | ------------------------------------------------ |
@@ -39,9 +57,9 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                   | [Java](./DynamicProgramming/Java/_0053_MaximumSubarray.java)       | Easy       | `Array`, `Divide Conquer`, `Dynamic Programming` |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](./DynamicProgramming/Java/_0746_MinCostClimbingStairs.java) | Easy       | `Array`, `Dynamic Programming`                   |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-### Linked List
+#### <a name="linked-list"></a>Linked List
 
 | #    | Title                                                                                       | Solution                                                      | Difficulty | Tags                                        |
 | ---- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------- | ------------------------------------------- |
@@ -50,9 +68,9 @@
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)   | [Java](./LinkedList/Java/_0203_RemoveLinkedListElements.java) | Easy       | `Linked List`, `Recursion`                  |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./LinkedList/Java/_0237_DeleteNodeinaLinkedList.java)  | Easy       | `Linked List`                               |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-### Math
+#### <a name="math"></a>Math
 
 | #    | Title                                                                                 | Solution                                              | Difficulty | Tags                                                      |
 | ---- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | --------------------------------------------------------- |
@@ -64,26 +82,26 @@
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                 | [Java](./Math/Java/_0412_FizzBuzz.java)               | Easy       | `Math`, `String`                                          |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                   | [Java](./Math/Java/_0509_FibonacciNumber.java)        | Easy       | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-### Queue
+#### <a name="queue"></a>Queue
 
 | #    | Title                                                                                       | Solution                                                  | Difficulty | Tags                             |
 | ---- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------- | -------------------------------- |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./Queue/Java/_0232_ImplementQueueUsingStacks.java) | Easy       | `Stack`, `Design`, `Queue`       |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)             | [Java](./Queue/Java/_0933_NumberOfRecentCalls.java)       | Easy       | `Design`, `Queue`, `Data Stream` |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-### Stack
+#### <a name="stack"></a>Stack
 
 | #    | Title                                                 | Solution                                 | Difficulty | Tags              |
 | ---- | ----------------------------------------------------- | ---------------------------------------- | ---------- | ----------------- |
 | 0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./Stack/Java/_0155_MinStack.java) | Easy       | `Stack`, `Design` |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-### String
+#### <a name="string"></a>String
 
 | #    | Title                                                                                                         | Solution                                                         | Difficulty | Tags                                        |
 | ---- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- | ------------------------------------------- |
@@ -102,9 +120,9 @@
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)       | [Java](./String/Java/_1221_SplitaStringinBalancedStrings.java)   | Easy       | `String`, `Greedy`, `Counting`              |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Java](./String/Java/_2264_Largest3SameDigitNumberinString.java) | Easy       | `String`                                    |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-### Tree
+#### <a name="tree"></a>Tree
 
 | #    | Title                                                                                                                           | Solution                                                               | Difficulty | Tags                                                                            |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------- |
@@ -120,10 +138,10 @@
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                 | [Java](./Tree/Java/_0700_SearchinaBinarySearchTree.java)               | Easy       | `Tree`, `Binary Search Tree`, `Binary Tree`                                     |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | [Java](./Tree/Java/_0704_BinarySearch.java)                            | Easy       | `Array`, `Binary Search`                                                        |
 
-[To Questions](#question-top)
+[To Questions](#table-of-contents)
 
-## Troubleshoot
+### Troubleshoot
 
-### Error: `Debug: Imporing projects` on VSCode
+#### Error: `Debug: Imporing projects` on VSCode
 
 On command palette, run `Java: Clean Java Language workspace`
