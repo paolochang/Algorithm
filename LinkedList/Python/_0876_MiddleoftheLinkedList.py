@@ -24,6 +24,9 @@ class ListNode:
 
 
 class Solution:
+    # Iteration
+    # Time Complexity: BigO(N)
+    # Space Complexity: BigO(N)
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         hare = head
         tortoise = head

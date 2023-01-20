@@ -10,6 +10,11 @@ class ListNode {
   }
 }
 
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(N)
+ */
 function middleNode(head: ListNode | null): ListNode | null {
   let hare = head;
   let tortoise = head;
