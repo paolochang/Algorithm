@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(N)
+ */
 function runningSum(nums: number[]): number[] {
   let sum = 0;
   return nums.map((num) => (sum += num));

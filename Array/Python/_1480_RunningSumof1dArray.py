@@ -2,6 +2,9 @@ from typing import List
 
 
 class Solution:
+    # Iteration
+    # Time Complexity: BigO(N)
+    # Space Complexity: BigO(N)
     def runningSum(self, nums: List[int]) -> List[int]:
         result = []
         sum = 0
