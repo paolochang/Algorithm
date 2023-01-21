@@ -47,9 +47,9 @@
 
 #### <a name="bit-manipulation"></a>Bit Manipulation
 
-| #    | Title                                                                           | Solution                                                                                                                          | Difficulty | Tags                                     |
-| ---- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------- |
-| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Python3](./BitManipulatation/Python/_0191_Numberof1Bits.py), [TypeScript](./BitManipulatation/TypeScript/_0191_Numberof1Bits.ts) | Easy       | `Divide and Conquer`, `Bit Manipulation` |
+| #    | Title                                                                           | Solution                                                                                                                      | Difficulty | Tags                                     |
+| ---- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------- |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Python3](./BitManipulation/Python/_0191_Numberof1Bits.py), [TypeScript](./BitManipulation/TypeScript/_0191_Numberof1Bits.ts) | Easy       | `Divide and Conquer`, `Bit Manipulation` |
 
 [To Questions](#table-of-contents)
 
