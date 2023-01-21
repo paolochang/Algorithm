@@ -3,6 +3,7 @@
 ### <a name="table-of-contents"></a>Table of Contents
 
 - [Array](#array)
+- [Bit Manipulation](#bit-manipulation)
 - [Dynamic Programming](#dynamic-programming)
 - [Linked List](#linked-list)
 - [Math](#math)
@@ -41,6 +42,14 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)                                                             | [Java](./Array/Java/_1588_SumofAllOddLengthSubarrays.java)                                                                                                                      | Easy       | `Array`, `Math`, `Prefix Sum`                                      |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)                                                                 | [Python3](./Array/Python/_1672_RichestCustomerWealth.py), [TypeScript](./Array/TypeScript/_1672_RichestCustomerWealth.py)                                                       | Easy       | `Array`, `Matrix`                                                  |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)                                                 | [Java](./Array/Java/_2053_KthDistinctStringInAnArray.java), [Python3](./Array/Python/_2053_KthDistinctStringInAnArray.py)                                                       | Easy       | `Array`, `Hash Table`, `String`, `Counting`                        |
+
+[To Questions](#table-of-contents)
+
+#### <a name="bit-manipulation"></a>Bit Manipulation
+
+| #    | Title                                                                           | Solution                                                                                                                 | Difficulty | Tags                                     |
+| ---- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------------------------------------- |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [Python](./BitManipulatation/Java/_0191_Numberof1Bits.py), [TypeScript](./BitManipulatation/Java/_0191_Numberof1Bits.ts) | Easy       | `Divide and Conquer`, `Bit Manipulation` |
 
 [To Questions](#table-of-contents)
 
