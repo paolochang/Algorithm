@@ -145,7 +145,7 @@
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/){: target="\_blank"} | [Java](./Tree/Java/_0235_LowestCommonAncestorofaBinarySearchTree.java) | Easy       | `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`               |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/){: target="\_blank"}                                               | [Java](./Tree/Java/_0572_SubtreeofAnotherTree.java)                    | Easy       | `Tree`, `Depth-First Search`, `String Matching`, `Binary Tree`, `Hash Function` |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/){: target="\_blank"}                                 | [Java](./Tree/Java/_0700_SearchinaBinarySearchTree.java)               | Easy       | `Tree`, `Binary Search Tree`, `Binary Tree`                                     |
-| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/){: target="\_blank"}                                                                   | [Java](./Tree/Java/_0704_BinarySearch.java)                            | Easy       | `Array`, `Binary Search`                                                        |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/){: target="_blank"}                                                                   | [Java](./Tree/Java/_0704_BinarySearch.java)                            | Easy       | `Array`, `Binary Search`                                                        |
 
 [To Questions](#table-of-contents)
 
