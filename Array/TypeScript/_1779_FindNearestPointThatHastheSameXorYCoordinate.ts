@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(1)
+ */
 function nearestValidPoint(x: number, y: number, points: number[][]): number {
   let smallest: number | undefined = undefined;
   let index: number = -1;
