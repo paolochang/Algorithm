@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(N^2)
+ * Space Complexity: BigO(1)
+ */
 function isHappyV1(n: number): boolean {
   let num = n;
   while (num > 6) {
@@ -9,16 +14,11 @@ function isHappyV1(n: number): boolean {
   return num == 1 ? true : false;
 }
 
-function sumOfSquares(n: number): number {
-  let num = 0;
-  while (n !== 0) {
-    const dig = n % 10;
-    num += dig * dig;
-    n = Math.floor(n / 10);
-  }
-  return num;
-}
-
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(1)
+ */
 function isHappyV2(n: number): boolean {
   let fast = n,
     slow = n;
@@ -29,6 +29,16 @@ function isHappyV2(n: number): boolean {
   } while (fast !== slow);
 
   return slow === 1;
+}
+
+function sumOfSquares(n: number): number {
+  let num = 0;
+  while (n !== 0) {
+    const dig = n % 10;
+    num += dig * dig;
+    n = Math.floor(n / 10);
+  }
+  return num;
 }
 
 console.log(isHappyV2(19));
