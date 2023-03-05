@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(1)
+ */
 function checkStraightLine(coordinates: number[][]): boolean {
   let mxd = coordinates[1][0] - coordinates[0][0];
   let myd = coordinates[1][1] - coordinates[0][1];
