@@ -6,28 +6,34 @@ class Solution:
     # Time Complexity: BigO(N)
     # Space Complexity: BigO(1)
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
-        mxd = abs(coordinates[1][0] - coordinates[0][0])
-        myd = abs(coordinates[1][1] - coordinates[0][1])
+        mxd = coordinates[1][0] - coordinates[0][0]
+        myd = coordinates[1][1] - coordinates[0][1]
 
         for i in range(1, len(coordinates) - 1):
-            nxd = abs(coordinates[i + 1][0] - coordinates[i][0])
-            nyd = abs(coordinates[i + 1][1] - coordinates[i][1])
+            nxd = coordinates[i + 1][0] - coordinates[i][0]
+            nyd = coordinates[i + 1][1] - coordinates[i][1]
 
             if mxd > nxd and myd > nyd:
-                ckx = mxd / nxd
-                cky = myd / nyd
-                if ckx == cky:
-                    mxd = nxd
-                    myd = nyd
-                    continue
+                try:
+                    ckx = mxd / nxd
+                    cky = myd / nyd
+                    if ckx == cky:
+                        mxd = nxd
+                        myd = nyd
+                        continue
+                except ZeroDivisionError:
+                    return False
                 return False
             elif (mxd == 0 and nxd == 0) or (myd == 0 and nyd == 0):
                 continue
             else:
-                ckx = mxd / nxd
-                cky = myd / nyd
-                if ckx == cky:
-                    continue
+                try:
+                    ckx = mxd / nxd
+                    cky = myd / nyd
+                    if ckx == cky:
+                        continue
+                except ZeroDivisionError:
+                    return False
                 return False
         return True
 
@@ -105,5 +111,23 @@ print(
             [1, 2],
             [-1, 4],
         ],
+    ),
+)
+print(
+    "[[1,1],[2,2],[2,0]] | Expected:",
+    False,
+    "| Output:",
+    ins.checkStraightLine(
+        ins,
+        [[1, 1], [2, 2], [2, 0]],
+    ),
+)
+print(
+    "[[1,-8],[2,-3],[1,2]] | Expected:",
+    False,
+    "| Output:",
+    ins.checkStraightLine(
+        ins,
+        [[1, -8], [2, -3], [1, 2]],
     ),
 )
