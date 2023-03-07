@@ -1,5 +1,9 @@
 ## Algorithms - LEETCODE
 
+### Study Plans
+
+- [Programming Skills I](./ProgrammingSkillsI)
+
 ### <a name="table-of-contents"></a>Table of Contents
 
 - [Array](#array)
@@ -89,7 +93,7 @@
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                                                     | [Java](./Math/Java/_0050_PowXN.java)                                                                                                                                | Medium     | `Math`, `Recursion`                                       |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                        | [Java](./Math/Java/_0069_SqrtX.java)                                                                                                                                | Easy       | `Math`, `Binary Search`                                   |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                                  | [Java](./Math/Java/_0171_ExcelSheetColumnNumber.java)                                                                                                               | Easy       | `Math`, `String`                                          |
-| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                            | [Java](./Math/Java/_0202_HappyNumber.java)                                                                                                                          | Easy       | `Hash Table`, `Math`, `Two Pointer`                       |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                            | [Java](./Math/Java/_0202_HappyNumber.java), [Python3](./Math/Python/_0202_HappyNumber.py), [TypeScript](./Math/TypeScript/_0202_HappyNumber.ts)                     | Easy       | `Hash Table`, `Math`, `Two Pointer`                       |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                            | [Java](./Math/Java/_0231_PowerofTwo.java)                                                                                                                           | Easy       | `Math`, `Bit Manipulation`, `Recursion`                   |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                                  | [Java](./Math/Java/_0412_FizzBuzz.java)                                                                                                                             | Easy       | `Math`, `String`                                          |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                                    | [Java](./Math/Java/_0509_FibonacciNumber.java)                                                                                                                      | Easy       | `Math`, `Dynamic Programming`, `Recursion`, `Memoization` |
