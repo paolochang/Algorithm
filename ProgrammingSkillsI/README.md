@@ -40,11 +40,11 @@
 
 ### Day 6: Array
 
-| #    | Title                                                                                             | Solution                                                                                                                    | Difficulty | Tags                          |
-| ---- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------- |
-| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Java](../Array/Java/_1588_SumofAllOddLengthSubarrays.java)                                                                 | Easy       | `Array`, `Math`, `Prefix Sum` |
-| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                          | [Python3](../Array/Python/_0283_MoveZeroes.py), [TypeScript](../Array/TypeScript/_0283_MoveZeroes.ts)                       | Easy       | `Array`, `Two Pointers`       |
-| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)     | [Python3](../Array/Python/_1672_RichestCustomerWealth.py), [TypeScript](../Array/TypeScript/_1672_RichestCustomerWealth.py) | Easy       | `Array`, `Matrix`             |
+| #    | Title                                                                                             | Solution                                                                                                                                                                                             | Difficulty | Tags                          |
+| ---- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------- |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Java](../Array/Java/_1588_SumofAllOddLengthSubarrays.java), , [Python3](../Array/Python/_1588_SumofAllOddLengthSubarrays.py), [TypeScript](../Array/TypeScript/_1588_SumofAllOddLengthSubarrays.ts) | Easy       | `Array`, `Math`, `Prefix Sum` |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes)                                          | [Python3](../Array/Python/_0283_MoveZeroes.py), [TypeScript](../Array/TypeScript/_0283_MoveZeroes.ts)                                                                                                | Easy       | `Array`, `Two Pointers`       |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/)     | [Python3](../Array/Python/_1672_RichestCustomerWealth.py), [TypeScript](../Array/TypeScript/_1672_RichestCustomerWealth.py)                                                                          | Easy       | `Array`, `Matrix`             |
 
 ### Day 7: Array
 
