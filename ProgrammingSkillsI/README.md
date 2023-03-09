@@ -48,10 +48,10 @@
 
 ### Day 7: Array
 
-| #    | Title               | Solution | Difficulty | Tags                          |
-| ---- | ------------------- | -------- | ---------- | ----------------------------- |
-| 1572 | Matrix Diagonal Sum |          |            | `Array`,`Matrix`              |
-| 0566 | Reshape the Matrix  |          |            | `Array`,`Matrix`,`Simulation` |
+| #    | Title                                                                                 | Solution                                                                                                            | Difficulty | Tags                          |
+| ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------- |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | [Python3](../Array/Python/_1572_MatrixDiagonalSum.py), [TypeScript](../Array/TypeScript/_1572_MatrixDiagonalSum.ts) | Easy       | `Array`, `Matrix`             |
+| 0566 | Reshape the Matrix                                                                    |                                                                                                                     |            | `Array`,`Matrix`,`Simulation` |
 
 ### Day 8: String
 
