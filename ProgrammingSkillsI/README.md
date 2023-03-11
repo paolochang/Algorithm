@@ -63,11 +63,11 @@
 
 ### Day 9: String
 
-| #    | Title                                           | Solution | Difficulty | Tags                          |
-| ---- | ----------------------------------------------- | -------- | ---------- | ----------------------------- |
-| 0709 | To Lower Case                                   |          |            | `String`                      |
-| 1309 | Decrypt String from Alphabet to Integer Mapping |          |            | `String`                      |
-| 0953 | Verifying an Alien Dictionary                   |          |            | `Array`,`Hash Table`,`String` |
+| #    | Title                                                         | Solution                                                                                                  | Difficulty | Tags                          |
+| ---- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------- |
+| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python3](../String/Python/_0709_ToLowerCase.py), [TypeScript](../String/TypeScript/_0709_ToLowerCase.ts) | Easy       | `String`                      |
+| 1309 | Decrypt String from Alphabet to Integer Mapping               |                                                                                                           |            | `String`                      |
+| 0953 | Verifying an Alien Dictionary                                 |                                                                                                           |            | `Array`,`Hash Table`,`String` |
 
 ### Day 10: Linked List & Tree
 
