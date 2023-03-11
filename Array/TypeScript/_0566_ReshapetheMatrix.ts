@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(N^2)
+ * Space Complexity: BigO(N^2)
+ */
 function matrixReshape(mat: number[][], r: number, c: number): number[][] {
   if (r * c != mat.length * mat[0].length) return mat;
 
