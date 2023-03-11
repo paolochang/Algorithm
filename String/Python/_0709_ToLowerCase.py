@@ -1,4 +1,7 @@
 class Solution:
+    # Iteration
+    # Time Complexity: BigO(N)
+    # Space Complexity: BigO(N)
     def toLowerCase(self, s: str) -> str:
         res = ""
         for c in s:

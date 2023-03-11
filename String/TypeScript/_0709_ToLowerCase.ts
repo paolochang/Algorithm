@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(N)
+ */
 function toLowerCase(s: string): string {
   const str = s.split("");
   for (let i = 0; i < str.length; i++) {
