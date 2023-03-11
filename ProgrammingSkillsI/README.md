@@ -51,7 +51,7 @@
 | #    | Title                                                                                 | Solution                                                                                                            | Difficulty | Tags                            |
 | ---- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------- |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) | [Python3](../Array/Python/_1572_MatrixDiagonalSum.py), [TypeScript](../Array/TypeScript/_1572_MatrixDiagonalSum.ts) | Easy       | `Array`, `Matrix`               |
-| 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)   | [Python3](../Array/Python/_0566_ReshapetheMatrix.py),[TypeScript](../Array/TypeScript/_0566_ReshapetheMatrix.ts)    | Easy       | `Array`, `Matrix`, `Simulation` |
+| 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)   | [Python3](../Array/Python/_0566_ReshapetheMatrix.py), [TypeScript](../Array/TypeScript/_0566_ReshapetheMatrix.ts)   | Easy       | `Array`, `Matrix`, `Simulation` |
 
 ### Day 8: String
 
