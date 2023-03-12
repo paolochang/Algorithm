@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(N)
+ */
 function freqAlphabets(s: string): string {
   let res: string[] = [];
   for (let i = s.length - 1; i >= 0; i--) {

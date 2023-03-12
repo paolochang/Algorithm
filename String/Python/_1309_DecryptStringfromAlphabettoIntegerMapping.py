@@ -1,4 +1,7 @@
 class Solution:
+    # Iteration
+    # Time Complexity: BigO(N)
+    # Space Complexity: BigO(N)
     def freqAlphabets(self, s: str) -> str:
         res = []
         tmp = ""
