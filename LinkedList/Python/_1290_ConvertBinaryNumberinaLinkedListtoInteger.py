@@ -2,6 +2,9 @@ from listnode import ListNode
 
 
 class Solution:
+    # Iteration
+    # Time Complexity: BigO(N)
+    # Space Complexity: BigO(N)
     def getDecimalValue(self, head: ListNode) -> int:
         binary = []
 

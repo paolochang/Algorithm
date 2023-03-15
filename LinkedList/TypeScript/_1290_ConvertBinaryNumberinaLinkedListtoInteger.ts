@@ -12,6 +12,11 @@ import ListNode from "./ListNode";
  * }
  */
 
+/**
+ * Iteration
+ * Time Complexity: BigO(N)
+ * Space Complexity: BigO(N)
+ */
 function getDecimalValue(head: ListNode | null): number {
   let list: number[] = [];
 
