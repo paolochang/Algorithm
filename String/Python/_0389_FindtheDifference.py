@@ -1,4 +1,7 @@
 class Solution:
+    # Iteration
+    # Time Complexity: BigO(NlogN)
+    # Space Complexity: BigO(N)
     def findTheDifference(self, s: str, t: str) -> str:
         ls = list(s)
         lt = list(t)

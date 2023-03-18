@@ -1,3 +1,8 @@
+/**
+ * Iteration
+ * Time Complexity: BigO(NlogN)
+ * Space Complexity: BigO(N)
+ */
 function findTheDifference(s: string, t: string): string {
   let res = "";
   let ls: string[] = s.split("").sort();
