@@ -56,10 +56,10 @@
 ### Day 8: String
 
 | #    | Title                                                                                  | Solution                                                                                                                            | Difficulty | Tags                                                  | Solved             |
-| ---- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------- | ------------------ | ------------------ |
+| ---- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------- | ------------------ |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)   | [Python3](../String/Python/_1768_MergeStringsAlternately.py), [TypeScript](../String/TypeScript/_1768_MergeStringsAlternately.ts)   | Easy       | `Two Pointers`,`String`                               | :white_check_mark: |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [Python3](../String/Python/_1678_GoalParserInterpretation.py), [TypeScript](../String/TypeScript/_1678_GoalParserInterpretation.ts) | Easy       | `String`                                              | :white_check_mark: |
-| 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)              | [Python3](../String/Python/_0389_FindtheDifference.py), [TypeScript](../String/TypeScript/_0389_FindtheDifference.ts)               | Easy       | `Hash Table`, `String`, `Bit Manipulation`, `Sorting` |                    | :white_check_mark: |
+| 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)              | [Python3](../String/Python/_0389_FindtheDifference.py), [TypeScript](../String/TypeScript/_0389_FindtheDifference.ts)               | Easy       | `Hash Table`, `String`, `Bit Manipulation`, `Sorting` | :white_check_mark: |
 
 ### Day 9: String
 
