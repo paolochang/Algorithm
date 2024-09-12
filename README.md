@@ -172,9 +172,9 @@
 
 #### <a name="sql-queries"></a>Database - SQL Queries
 
-| #    | Title                                                                    | Solution | Difficulty | Tags |
-| ---- | ------------------------------------------------------------------------ | -------- | ---------- | ---- |
-| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) |          | Easy       |      |
+| #    | Title                                                                    | Solution                                              | Difficulty | Tags       |
+| ---- | ------------------------------------------------------------------------ | ----------------------------------------------------- | ---------- | ---------- |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [MySQL](./Database/MySQL/_1075_ProjectEmployeesI.sql) | Easy       | `Database` |
 
 [To Questions](#table-of-contents)
 
