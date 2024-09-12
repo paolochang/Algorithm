@@ -15,6 +15,7 @@
 - [Stack](#stack)
 - [String](#string)
 - [Tree](#tree)
+- [Database - SQL Queries](#sql-queries)
 
 ### Questions
 
@@ -166,6 +167,14 @@
 | 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)                                    | [Python3](./Tree/Python/_0589_N-aryTreePreorderTraversal.py), [TypeScript](./Tree/TypeScript/_0589_N-aryTreePreorderTraversal.ts) | Easy       | `Stack`, `Tree`, `Depth-First Search`                                           |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                 | [Java](./Tree/Java/_0700_SearchinaBinarySearchTree.java)                                                                          | Easy       | `Tree`, `Binary Search Tree`, `Binary Tree`                                     |
 | 0704 | <a href="https://leetcode.com/problems/binary-search/" target="_blank">Binary Search</a>                                        | [Java](./Tree/Java/_0704_BinarySearch.java)                                                                                       | Easy       | `Array`, `Binary Search`                                                        |
+
+[To Questions](#table-of-contents)
+
+#### <a name="sql-queries"></a>Database - SQL Queries
+
+| #    | Title                                                                    | Solution | Difficulty | Tags |
+| ---- | ------------------------------------------------------------------------ | -------- | ---------- | ---- |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) |          | Easy       |      |
 
 [To Questions](#table-of-contents)
 
