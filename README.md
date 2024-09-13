@@ -172,9 +172,10 @@
 
 #### <a name="sql-queries"></a>Database - SQL Queries
 
-| #    | Title                                                                    | Solution                                              | Difficulty | Tags       |
-| ---- | ------------------------------------------------------------------------ | ----------------------------------------------------- | ---------- | ---------- |
-| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [MySQL](./Database/MySQL/_1075_ProjectEmployeesI.sql) | Easy       | `Database` |
+| #    | Title                                                                        | Solution                                                | Difficulty | Tags       |
+| ---- | ---------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ---------- |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i)     | [MySQL](./Database/MySQL/_1075_ProjectEmployeesI.sql)   | Easy       | `Database` |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [MySQL](./Database/MySQL/_1251_AverageSellingPrice.sql) | Easy       | `Database` |
 
 [To Questions](#table-of-contents)
 
